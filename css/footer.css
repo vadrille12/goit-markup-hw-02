@@ -1,0 +1,43 @@
+.footer {
+    padding: 24px 175px 25px;
+    width: 1600px;
+}
+
+.bg-f {
+    background-color: #2F303A;
+}
+
+.logo-f {
+    font-family: var(--logo-font);
+    color: var(--main-light);
+    font-weight: 700;
+    font-size: 26px;
+    text-decoration: none;
+}
+
+.accent {
+    color: #2196F3;
+}
+
+.menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.addres {
+    font-weight: 400;
+    font-size: 14px;
+    color: var(--main-light);
+    text-decoration: none;
+    font-style: normal;
+}
+
+.contact {
+    font-family: var(--main-font);
+    color: var(--secondary-font-color);
+    font-weight: 500;
+    font-size: 14px;
+    text-decoration: none;
+    font-style: normal;
+}

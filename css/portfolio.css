@@ -1,0 +1,40 @@
+.hero-btn {
+    background-color: #F5F4FA   ;
+    font-size: 16px;
+    font-weight: 500;
+    border: none;
+    padding: 5px 22px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 6%;
+    border-radius: 4px;
+    color: var(--main-font-color);
+    margin: 0;
+    margin-top: 132px;  
+}
+
+.container-bg {
+    box-sizing: border-box;
+    background-color: #FFFFFF;
+    border: 1px solid #EEEEEE;
+    width: 370px;
+    height: 404px;
+    margin: 0;
+    margin-bottom: 30px;
+}
+
+.s2-port-title {
+    color: var(--main-font-color);
+    font-size: 18px;
+    width: 270px;
+    font-weight: 700;
+}
+
+.s2-port-text {
+    color: var(--secondary-font-color);
+    font-size: 16px;
+    margin: 0;
+    margin-bottom: 94px;
+    width: 270px;
+    font-weight: 400;
+}

@@ -1,0 +1,16 @@
+:root{
+    --main-font: 'Roboto', sans-serif;
+    --logo-font: 'Raleway', sans-serif;
+    --main-light: #FFFFFF;
+    --main-font-color: #212121;
+    --secondary-font-color: #757575;
+}
+
+body {
+    font-family: var(--main-font);
+    letter-spacing: 3%;
+}
+
+footer {
+    letter-spacing: 3%;
+}
