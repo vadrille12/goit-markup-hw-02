@@ -1,5 +1,4 @@
 .footer {
-    padding: 24px 175px 25px;
     width: 1600px;
 }
 
@@ -21,8 +20,6 @@
 
 .menu {
     list-style: none;
-    margin: 0;
-    padding: 0;
 }
 
 .addres {
@@ -35,9 +32,11 @@
 
 .contact {
     font-family: var(--main-font);
-    color: var(--secondary-font-color);
-    font-weight: 500;
+    color: #FFFFFF99;
+    font-weight: 400;
     font-size: 14px;
     text-decoration: none;
     font-style: normal;
+    line-height: 24px;
+    letter-spacing: 0.03em;
 }

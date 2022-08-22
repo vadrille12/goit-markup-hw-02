@@ -1,5 +1,5 @@
 .hero-btn {
-    background-color: #F5F4FA   ;
+    background-color: #F5F4FA;
     font-size: 16px;
     font-weight: 500;
     border: none;
@@ -10,7 +10,7 @@
     border-radius: 4px;
     color: var(--main-font-color);
     margin: 0;
-    margin-top: 132px;  
+    margin-top: 132px;
 }
 
 .container-bg {
