@@ -43,8 +43,6 @@
     color: var(--secondary-font-color);
     font-weight: 400;
     font-size: 14px;
-    margin: 0;
-    margin-bottom: 94px;
     width: 270px;
 }
 
@@ -94,6 +92,4 @@
 .bg {
     background-color: #FFFFFF;
     width: 270px;
-    margin: 0;
-    margin-top: 0;
 }
