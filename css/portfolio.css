@@ -3,32 +3,59 @@
     font-size: 16px;
     font-weight: 500;
     border: none;
-    padding: 5px 22px;
+    padding: 6px 25px;
     align-items: center;
     text-align: center;
-    letter-spacing: 6%;
     border-radius: 4px;
     color: var(--main-font-color);
+    cursor: pointer;
+    font-family: inherit;
+    line-height: 1.625; 
+}
+
+.hero-btn:hover {
+    background-color: var(--hover-focus-color);
+    color: var(--main-light);
+}
+
+.hero-btn:focus {
+    background-color: var(--hover-focus-color);
+    color: var(--main-light);
+}
+
+.visually-hidden {
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    border: 0;
+    padding: 0;
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    margin: -1px;
 }
 
 .container-bg {
     box-sizing: border-box;
-    background-color: #FFFFFF;
+    background-color: var(--main-ligh);
     border: 1px solid #EEEEEE;
     width: 370px;
     height: 404px;
 }
 
-.s2-port-title {
+.my-work-title {
     color: var(--main-font-color);
     font-size: 18px;
     width: 270px;
     font-weight: 700;
+    line-height: 2;
 }
 
-.s2-port-text {
+.my-work-text {
     color: var(--secondary-font-color);
     font-size: 16px;
     width: 270px;
     font-weight: 400;
+    line-height: 1.875;
 }

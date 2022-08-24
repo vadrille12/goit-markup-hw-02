@@ -4,6 +4,9 @@
     --main-light: #FFFFFF;
     --main-font-color: #212121;
     --secondary-font-color: #757575;
+    --hover-focus-color: #2196F3;
+    --footer-contact-color: #FFFFFF99;
+    --dark-bg-color: #2F303A;
 }
 
 body {
@@ -11,6 +14,6 @@ body {
     letter-spacing: 0.03em;
 }
 
-footer {
-    letter-spacing: 0.03em;
+header {
+    letter-spacing: 0.02em;
 }

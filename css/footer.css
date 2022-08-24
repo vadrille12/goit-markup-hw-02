@@ -1,21 +1,18 @@
-.footer {
-    width: 1600px;
-}
-
 .bg-f {
-    background-color: #2F303A;
+    background-color: var(--dark-bg-color);
 }
 
 .logo-f {
     font-family: var(--logo-font);
-    color: var(--main-light);
+    color: var(--main-light);   
     font-weight: 700;
     font-size: 26px;
     text-decoration: none;
+    line-height: 1.2;
 }
 
 .accent {
-    color: #2196F3;
+    color: var(--hover-focus-color);
 }
 
 .menu {
@@ -28,15 +25,30 @@
     color: var(--main-light);
     text-decoration: none;
     font-style: normal;
+    line-height: 1.7;
 }
 
-.contact {
-    font-family: var(--main-font);
-    color: #FFFFFF99;
+.addres:hover {
+    color: var(--hover-focus-color);
+}
+
+.addres:focus {
+    color: var(--hover-focus-color);
+}
+
+.contact-footer {
+    color: var(--footer-contact-color);
     font-weight: 400;
     font-size: 14px;
     text-decoration: none;
     font-style: normal;
-    line-height: 24px;
-    letter-spacing: 0.03em;
+    line-height: 1.7;
+}
+
+.contact-footer:hover {
+    color: var(--hover-focus-color);
+}
+
+.contact-footer:focus {
+    color: var(--hover-focus-color);
 }
