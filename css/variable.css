@@ -7,6 +7,9 @@
     --hover-focus-color: #2196F3;
     --footer-contact-color: #FFFFFF99;
     --dark-bg-color: #2F303A;
+    --btn-active: #188CE8;
+    --border-color: #EEEEEE;
+    --bg-ourteam: #F5F4FA;
 }
 
 body {
